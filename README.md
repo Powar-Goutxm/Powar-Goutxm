@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning java & python...
 - 💞️ I’m looking to collaborate on some intersting projects...
 - 📫 How to reach me
-- LinkedIn: https://www.linkedin.com/in/goutam-powar-b795b42b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- LinkedIn:www.linkedin.com/in/
+goutam-powar
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: HEHEHEHEHEHEHEHEHEHE
 
