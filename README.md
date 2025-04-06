@@ -6,7 +6,7 @@
 -  LinkedIn:
    www.linkedin.com/in/goutam-powar
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: HEHEHEHEHEHEHEHEHEHE
+- ⚡ Fun fact: Nothing to brag about😮‍💨
 
 <!---
 Powar-Goutxm/Powar-Goutxm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
