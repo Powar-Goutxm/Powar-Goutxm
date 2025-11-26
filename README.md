@@ -33,11 +33,5 @@
 ## 📊 GitHub Stats (compact)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=powar-goutxm&show_icons=true&theme=tokyonight&hide_border=true" width="450" />
-  &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=powar-goutxm&layout=compact&theme=tokyonight&hide_border=true" width="350" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=powar-goutxm&theme=tokyonight&hide_border=true" width="450" />
 </p>
