@@ -1,28 +1,16 @@
-name: Generate GitHub Stats
+name: Metrics
 on:
-  schedule:
-    - cron: "0 0 * * *"
+  schedule: [{cron: "0 0 * * *"}]
   workflow_dispatch:
 jobs:
-  build:
+  github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate Language Stats
-        uses: anuraghazra/github-readme-stats@master
+      - uses: lowlighter/metrics@latest
         with:
-          username: powar-goutxm
-          output: generated/top-langs.svg
-          layout: compact
-          theme: tokyonight
-          hide_border: true
-        env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
-
-      - name: Commit and Push
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          mkdir -p generated
-          git add generated/top-langs.svg
-          git commit -m "Update GitHub Stats" || echo "No changes to commit"
-          git push
+          token: ${{ secrets.GH_TOKEN }}
+          user: powar-goutxm
+          template: classic
+          base: header, activity, community, repositories, metadata
+          section: languages
+          config_timezone: Asia/Kolkata
