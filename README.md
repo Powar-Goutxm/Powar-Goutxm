@@ -2,7 +2,7 @@
 <h3 align="center">Coding my way through the chaos 🚀</h3>
 
 <p align="center">
-  🌱 Learning Java & Python • 💻 Building real-world projects • ⚡ Focused on leveling up every day  
+  🌱 Learning Java Full Stack • 💻 Building real-world projects • ⚡ Focused on leveling up every day  
 </p>
 
 ---
