@@ -30,7 +30,7 @@
 
 ---
 
-## 📊 GitHub Stats (compact)
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=powar-goutxm&layout=compact&theme=tokyonight&hide_border=true" width="350" />
