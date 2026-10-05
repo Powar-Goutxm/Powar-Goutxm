@@ -12,7 +12,7 @@
 - 💞️ Open to collaborating on cool projects  
 - 📫 Reach me at **goutampowar005@gmail.com**  
 - 😄 Pronouns: He/Him  
-- ⚡ Fun fact: Nothing to brag about 😮‍💨  
+- ⚡ Fun fact: I never give up.  
 
 ---
 
